@@ -1,5 +1,4 @@
-import base64; encrypted = base64.b64encode("
-#!/usr/bin/env python3
+import base64; encrypted = base64.b64encode("#!/usr/bin/env python3
 # ==============================================
 # 🐉 Chitti - Ultimate SMS Bomber Suite
 # Premium All-in-One Tool for Termux
@@ -912,5 +911,4 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
-    main()
-".encode()).decode(); print("Encrypted:", encrypted)
+    main()".encode()).decode(); print("Encrypted:", encrypted)
