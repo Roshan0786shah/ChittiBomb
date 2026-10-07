@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # ==============================================
-# 🐉 THW - Ultimate SMS Bomber Suite
+# 🐉 Chitti - Ultimate SMS Bomber Suite
 # Premium All-in-One Tool for Termux
 # ==============================================
-# Developer: THW🐉
+# Developer: Roshan 🐉
 # Version: 5.0 PRO MAX
 # ==============================================
 
@@ -356,7 +356,7 @@ def get_banner():
 ║             🐉 PREMIUM ALL-IN-ONE SUITE 🐉                  ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  📱 Developer : THW                                          ║
+║  📱 Developer : Roshan                                         ║
 ║  ⚡ Version   : 5.0 PRO MAX                                  ║
 ║  🧪 Mode      : LOCAL TESTING                                ║
 ╚═══════════════════════════════════════════════════════════════╝
