@@ -1,3 +1,4 @@
+import base64; encrypted = base64.b64encode("
 #!/usr/bin/env python3
 # ==============================================
 # 🐉 Chitti - Ultimate SMS Bomber Suite
@@ -912,3 +913,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+".encode()).decode(); print("Encrypted:", encrypted)
